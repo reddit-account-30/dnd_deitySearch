@@ -2,6 +2,7 @@
 Python code for searching a list of D&amp;D deities.
 
 Commands:
+
 Deity, Alignment, Domain, or Symbol - enter any string to find entries that contain that string in their respective categorry
 
 Advanced - enter strings to each field to find entries that match all your input. If a field is left blank, if won't impact the search.
@@ -17,4 +18,5 @@ If something has multiple domains, separate the domains with anything besides a 
 
 ---
 Potential issues:
+
 *As is, searching for something with a true neutral alignment will return anything with any kind of neutral alignment. This happens because LN (lawful neutral), for example, contains an "N" in it. This can be avoided by changing the input file to represent true neutral some other way (like NN, or TN).
