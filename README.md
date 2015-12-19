@@ -5,15 +5,7 @@ Commands:
 Deity, Alignment, Domain, or Symbol - enter any string to find entries that contain that string in their respective categorry
 
 Advanced - enter strings to each field to find entries that match all your input. If a field is left blank, if won't impact the search.
-  ex: Enter part or all of Deity name: 
-      T
-      Enter alignment(LG,NG,CG,NG,N,NE,LE,NE,CE): 
-      
-      Enter domain: 
-      Life
-      Enter symbol: 
-
-  This will return all entries that have the Life domain, and have a "t" in their name.
+  ex: Entering "t" in the name field, and "life" for the domain field, while just pressing enter for the for others will return        all entries that have the Life domain, and have a "t" in their name.
 
 Debug - all (lists all entries in file), or domainAll (lists all domains found in file)
 Exit - type this just about anywhere to end the program
