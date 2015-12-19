@@ -20,3 +20,6 @@ If something has multiple domains, separate the domains with anything besides a 
 Potential issues:
 
 *As is, searching for something with a true neutral alignment will return anything with any kind of neutral alignment. This happens because LN (lawful neutral), for example, contains an "N" in it. This can be avoided by changing the input file to represent true neutral some other way (like NN, or TN).
+
+---
+I don't know what kind of disclaimers I have to put on this, but I don't own the rights to D&D, people can change this code how they want, etc. 
